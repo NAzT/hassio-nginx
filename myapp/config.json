@@ -1,6 +1,6 @@
 {
   "name": "My Custom Hass.io Nginx",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "slug": "custom-hassio-nginx",
   "description": "A custom hassio nginx",
   "url": "https://github.com/NAzT/hassio-nginx",
@@ -24,7 +24,7 @@
       "path": "/hello",
       "url": "http://localhost:8111"
     }, {
-      "name": "/1880",
+      "path": "/1880",
       "url": "http://localhost:1880"
     }]
   },

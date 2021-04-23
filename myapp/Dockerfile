@@ -3,7 +3,7 @@ FROM $BUILD_FROM
 
 
 # Copy root filesystem
-COPY rootfs /
+# COPY rootfs /
 
 # Setup requirements
 ARG BUILD_ARCH

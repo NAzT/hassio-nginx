@@ -9,6 +9,8 @@
     "ssl:ro",
     "config:rw"
   ],
+  "ingress": true,
+  "ingress_port": 9999,
   "arch": [
     "aarch64",
     "amd64",
